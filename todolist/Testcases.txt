@@ -1,0 +1,17 @@
+/Functional Test Cases
+
+//Add Task
+1. Verify a task can be added without any categories or due date
+2. Verify a task can be added with a category but without any due date
+3. Verify a task can be added with a category and a due date
+
+//Delete Task
+1. Verify a task without any categories or due date can be deleted
+2. Verify a task with a category but without any due date can be deleted
+3. Verify a task with a category and a due date can be deleted
+4. Verify all the tasks can deleted
+
+//Modify Task
+1.1 Verify the task name can be modified for a task without any categories or due date
+1.2 Verify the the category can be modified for a task without any categories or due date
+1.3 Verify the due date can be modified for a task without any categories or due date
